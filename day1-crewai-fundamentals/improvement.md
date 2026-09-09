@@ -63,3 +63,10 @@ The Reviewer identified areas that could further improve the generated article:
 ## Conclusion
 
 The experiment demonstrates how a basic CrewAI multi-agent workflow can be improved by adding an external web search capability. The Researcher can retrieve current information, the Writer can transform the findings into readable content, and the Reviewer can evaluate the final result.
+## Git Evidence
+
+The implementation was developed in two stages:
+
+- Stage 1: Multi-agent CrewAI research using local Ollama.
+- Stage 2: Web-enabled research using SerperDevTool.
+- Both execution outputs are preserved in the `output` directory.
