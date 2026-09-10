@@ -1,0 +1,40 @@
+W9D4 - ConversationBufferMemory Output
+
+TURN 1
+User: My name is Srusti.
+AI: Hello Srusti, how can I assist you today?
+------------------------------------------------------------
+
+TURN 2
+User: I am studying Information Science Engineering.
+AI: Great! Studying Information Science Engineering is excellent. This field covers a wide range of topics including computer science, data analysis, and more. How can I assist you specifically with your studies?
+------------------------------------------------------------
+
+TURN 3
+User: What course am I studying?
+AI: Based on the information you provided, you are studying Information Science Engineering.
+------------------------------------------------------------
+
+TURN 4
+User: What is my name?
+AI: Your name is Srusti.
+------------------------------------------------------------
+
+TURN 5
+User: Can you summarize what you know about me from this conversation?
+AI: From this conversation, you are studying Information Science Engineering and your name is Srusti. You are currently seeking information about your academic field and your name.
+------------------------------------------------------------
+
+
+COMPLETE CONVERSATION HISTORY
+============================================================
+Human: My name is Srusti.
+AI: Hello Srusti, how can I assist you today?
+Human: I am studying Information Science Engineering.
+AI: Great! Studying Information Science Engineering is excellent. This field covers a wide range of topics including computer science, data analysis, and more. How can I assist you specifically with your studies?
+Human: What course am I studying?
+AI: Based on the information you provided, you are studying Information Science Engineering.
+Human: What is my name?
+AI: Your name is Srusti.
+Human: Can you summarize what you know about me from this conversation?
+AI: From this conversation, you are studying Information Science Engineering and your name is Srusti. You are currently seeking information about your academic field and your name.
