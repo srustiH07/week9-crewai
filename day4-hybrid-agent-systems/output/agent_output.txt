@@ -1,0 +1,13 @@
+W9D4 - Two-Tool Agent Output
+
+TASK 1: Calculate 125 * 8 + 50.
+AGENT: The result of the expression 125 * 8 + 50 is 1050.
+------------------------------------------------------------
+
+TASK 2: Search for information about Artificial Intelligence.
+AGENT: The term Artificial Intelligence (AI) enables computers to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and problem-solving.
+------------------------------------------------------------
+
+TASK 3: Calculate (250 / 5) + 75.
+AGENT: The result of the calculation (250 / 5) + 75 is 125.0.
+------------------------------------------------------------
